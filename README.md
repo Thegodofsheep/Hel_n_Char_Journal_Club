@@ -29,3 +29,7 @@ Selected by: @Rad
 Tiltle: De novo designed protein inhibitors of amyloid aggregation and seeding  
 Journal: Proceedings of the National Academy of Sciences  
 DOI: https://doi.org/10.1073/pnas.2206240119  
+
+
+Friendly links for more paper:  
+https://github.com/yangkky/Machine-learning-for-proteins (about machine learning for proteins) --- By Kevin Kaichuang Yang
