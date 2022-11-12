@@ -24,3 +24,8 @@ Tiltle: The neurons that restore walking after paralysis
 Journal: Nature  
 DOI: https://doi.org/10.1038/s41586-022-05385-7  
 Selected by: @Rad  
+
+12/11/2022
+Tiltle: De novo designed protein inhibitors of amyloid aggregation and seeding  
+Journal: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2206240119
