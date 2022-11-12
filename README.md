@@ -27,5 +27,5 @@ Selected by: @Rad
 
 12/11/2022
 Tiltle: De novo designed protein inhibitors of amyloid aggregation and seeding  
-Journal: Proceedings of the National Academy of Sciences
-DOI: https://doi.org/10.1073/pnas.2206240119
+Journal: Proceedings of the National Academy of Sciences  
+DOI: https://doi.org/10.1073/pnas.2206240119  
