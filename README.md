@@ -29,16 +29,26 @@ Selected by: @Rad
 Tiltle: De novo designed protein inhibitors of amyloid aggregation and seeding  
 Journal: Proceedings of the National Academy of Sciences  
 DOI: https://doi.org/10.1073/pnas.2206240119  
+Selected by: @Rad
 
 13/11/2022  
 Tiltle: Divergent SARS-CoV-2 variant emerges in white-tailed deer with deer-to-human transmission  
 Journal: Nature Microbiology  
 DOI: https://doi.org/10.1038/s41564-022-01268-9  
+Selected by: @WCH 
 
 14/11/2022  
 Tiltle: Multivalent designed proteins neutralize SARS-CoV-2 variants of concern and confer protection against infection in mice  
 Journal: Science Translational Medicine  
 DOI: https://doi.org/10.1126/scitranslmed.abn1252  
+Selected by: @Rad
 
+15/11/2022  
+Tiltle: APOE4 impairs myelination via cholesterol dysregulation in oligodendrocytes   
+Journal: Nature   
+DOI: https://doi.org/10.1038/s41586-022-05439-w   
+Selected by: @Rad 
+
+  
 Friendly links for more paper:  
 https://github.com/yangkky/Machine-learning-for-proteins (about machine learning for proteins) --- By Kevin Kaichuang Yang
