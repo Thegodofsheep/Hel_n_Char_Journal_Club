@@ -55,7 +55,7 @@ Journal: Nature Biotechnology
 DOI: https://doi.org/10.1038/nbt.3907   
 Selected by: @Rad 
   
- 17/11/2022 
+ 17/11/2022     
  Tiltle: Cryo-EM demonstrates the in vitro proliferation of an ex vivo amyloid fibril morphology by seeding 
  Journal: Nature communications 
  DOI: https://doi.org/10.1038/s41467-021-27688-5  
