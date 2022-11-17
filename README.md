@@ -52,7 +52,7 @@ Selected by: @Rad
 16/11/2022  
 Title: Computational design of trimeric influenza-neutralizing proteins targeting the hemagglutinin receptor binding site 
 Journal: Nature Biotechnology 
-DOI: https://doi.org/10.1038/nbt.3907 
+DOI: https://doi.org/10.1038/nbt.3907   
 Selected by: @Rad 
   
 
